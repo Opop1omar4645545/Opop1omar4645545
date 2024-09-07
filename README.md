@@ -1,7 +1,7 @@
 ### Hello! I'm Omar Ahmed 👋
 --------
 - 😄 I’m a 4rd year undergraduate pursuing a Bachelor in Computer Science and Artificial Intelligence.
-- ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions.
+- ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions like <a href="https://icpc.global/ICPCID/FTHGNNTTAJK7" target="_blank" rel="noreferrer">Here</a>
 - ⚡ I'm currently working as a prompt engineer at  <a href="https://scale.com/" target="_blank" rel="noreferrer"> Scale AI </a>
 - ⚡ I'm currently working as a Instructor at  <a href="https://3cschool.net/" target="_blank" rel="noreferrer"> 3c online coding academy</a>
 - 🔭 I’m currently looking for Software Engineering Intern role(Full Stack).
