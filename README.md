@@ -3,7 +3,7 @@
 - 😄 I’m a 3rd year undergraduate pursuing a Bachelor in Computer Science and Artificial Intelligence.
 - ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions.
 - 🔭 I’m currently looking for Software Engineering Intern role(Backend).
-- 📫 How to reach me [wa.me/2001151784181](mailto:ahmadouda383@gmail.com)
+- 📫 How to reach me [wa.me/2001151784181]
 
 ![](https://komarev.com/ghpvc/?username=Opop1omar4645545)
 https://github.com/Opop1omar4645545
