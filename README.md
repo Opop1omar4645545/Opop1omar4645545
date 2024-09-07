@@ -3,7 +3,7 @@
 - 😄 I’m a 4rd year undergraduate pursuing a Bachelor in Computer Science and Artificial Intelligence.
 - ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions.
 - 🔭 I’m currently looking for Software Engineering Intern role(Full Stack).
-- 📫 How to reach me [opop1omar@gmail.com](mailto:opop1omar@gmail.com)
+- 📫 How to reach me a<href="https://wa.me/2001151784181"> here</a>
 
 ![](https://komarev.com/ghpvc/?username=Opop1omar4645545)
 https://github.com/Opop1omar4645545
