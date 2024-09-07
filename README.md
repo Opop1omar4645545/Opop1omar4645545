@@ -2,6 +2,8 @@
 --------
 - 😄 I’m a 4rd year undergraduate pursuing a Bachelor in Computer Science and Artificial Intelligence.
 - ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions.
+- ⚡ I'm currently working as a prompt engineer at  <a href="https://scale.com/" target="_blank" rel="noreferrer"> Scale AI </a>
+- ⚡ I'm currently working as a Instructor at  <a href="https://3cschool.net/" target="_blank" rel="noreferrer"> 3c online coding academy</a>
 - 🔭 I’m currently looking for Software Engineering Intern role(Full Stack).
 - 📫 How to reach me <a href="https://wa.me/2001151784181" target="_blank" rel="noreferrer"> here </a>
 
