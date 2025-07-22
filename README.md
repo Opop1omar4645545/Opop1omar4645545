@@ -1,11 +1,14 @@
 ### Hello! I'm Omar Ahmed 👋
 --------
-- 😄 I’m a 4rd year undergraduate pursuing a Bachelor in Computer Science and Artificial Intelligence.
-- ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions like <a href="https://icpc.global/ICPCID/FTHGNNTTAJK7" target="_blank" rel="noreferrer">Here</a>
-- ⚡ I'm currently working as a prompt engineer at  <a href="https://scale.com/" target="_blank" rel="noreferrer"> Scale AI </a>
-- ⚡ I'm currently working as a Instructor at  <a href="https://3cschool.net/" target="_blank" rel="noreferrer"> 3c online coding academy</a>
-- 🔭 I’m currently looking for Software Engineering Intern role(Full Stack).
-- 📫 How to reach me <a href="https://wa.me/2001151784181" target="_blank" rel="noreferrer"> here </a>
+### 👋 Hi there, I'm Yousef Gad
+
+- 🎓 I recently graduated with a Bachelor's in Computer Science and Artificial Intelligence.
+- ⚡ I'm passionate about Problem Solving and have actively competed in official ICPC competitions [here](https://icpc.global/ICPCID/FTHGNNTTAJK7).
+- 💼 I currently work at [Invisible Technologies](https://www.invisible.co/).
+- 👨‍🏫 I also work as an Instructor at [3C Online Coding Academy](https://3cschool.net/).
+- 🔭 I’m looking for a Software Engineering Internship (Full Stack).
+- 📫 You can reach me [here](https://wa.me/2001151784181).
+
 
 ![](https://komarev.com/ghpvc/?username=Opop1omar4645545)
 https://github.com/Opop1omar4645545
