@@ -1,6 +1,5 @@
 ### Hello! I'm Omar Ahmed 👋
 --------
-### 👋 Hi there, I'm Yousef Gad
 
 - 🎓 I recently graduated with a Bachelor's in Computer Science and Artificial Intelligence.
 - ⚡ I'm passionate about Problem Solving and have actively competed in official ICPC competitions [here](https://icpc.global/ICPCID/FTHGNNTTAJK7).
