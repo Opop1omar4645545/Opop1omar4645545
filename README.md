@@ -5,7 +5,7 @@
 - ⚡ I'm passionate about Problem Solving and have actively competed in official ICPC competitions [here](https://icpc.global/ICPCID/FTHGNNTTAJK7).
 - 💼 I currently work at [Invisible Technologies](https://www.invisible.co/).
 - 👨‍🏫 I also work as an Instructor at [3C Online Coding Academy](https://3cschool.net/).
-- 🔭 I’m looking for a Software Engineering Internship (Full Stack).
+- 🔭 I’m looking for a Data Enginerring intern.
 - 📫 You can reach me [here](https://wa.me/2001151784181).
 
 
